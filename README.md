@@ -79,7 +79,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/the-zoomeee/the-zoomeee/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/the-zoomeee/the-zoomeee/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
