@@ -102,6 +102,9 @@ currently  : Building cool stuff & leveling up every day
 
 <div align="center">
 
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 <sub>⚡ Built with passion by <a href="https://github.com/the-zoomeee">Raju Choudhary</a> · the-zoomeee</sub>
 
 </div>
